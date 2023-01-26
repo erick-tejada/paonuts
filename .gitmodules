@@ -2,3 +2,8 @@
 	path = erick-tejada/l10n-dominicana
 	url = git@github.com:erick-tejada/l10n-dominicana.git
 	branch = 15.0
+
+[submodule "erick-tejada/account_ttg"]
+	path = erick-tejada/account_ttg
+	url = git@github.com:erick-tejada/account_ttg.git
+	branch = master

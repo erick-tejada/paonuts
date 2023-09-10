@@ -7,3 +7,8 @@
 	path = erick-tejada/account_ttg
 	url = git@github.com:erick-tejada/account_ttg.git
 	branch = master
+
+[submodule "tejadatech/hr_ttg"]
+	path = tejadatech/hr_ttg
+	url = git@github.com:tejadatech/hr_ttg.git
+	branch = 15.0

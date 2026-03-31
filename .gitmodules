@@ -1,14 +1,14 @@
 [submodule "erick-tejada/l10n-dominicana"]
 	path = erick-tejada/l10n-dominicana
 	url = git@github.com:erick-tejada/l10n-dominicana.git
-	branch = 15.0
+	branch = upgrade/danvar
 
 [submodule "erick-tejada/account_ttg"]
 	path = erick-tejada/account_ttg
 	url = git@github.com:erick-tejada/account_ttg.git
-	branch = master
+	branch = 18.0
 
 [submodule "tejadatech/hr_ttg"]
 	path = tejadatech/hr_ttg
 	url = git@github.com:tejadatech/hr_ttg.git
-	branch = 15.0
+	branch = upgradePlatino18.0

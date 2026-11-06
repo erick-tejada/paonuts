@@ -12,3 +12,8 @@
 	path = tejadatech/hr_ttg
 	url = git@github.com:tejadatech/hr_ttg.git
 	branch = 15.0
+
+[submodule "tejadatech/l10n_do_ecf_businesslink"]
+	path = tejadatech/l10n_do_ecf_businesslink
+	url = git@github.com:tejadatech/l10n_do_ecf_businesslink.git
+	branch = 15.0
